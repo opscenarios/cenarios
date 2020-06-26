@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#yum install nmap
-mkdir /home/aluno
+echo "O Ambiente está sendo Configurado - Aguarde..."
+docker run -it centos:latest
 
 
