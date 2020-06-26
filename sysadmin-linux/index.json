@@ -1,5 +1,5 @@
 {
-  "title": "CentOS comandos -REP CENARIOS01",
+  "title": "CentOS comandos -REP CENARIOS02",
   "description": "Exercitar comandos básicos no CentOS- REP CENARIOS",
   "difficulty": "Beginner",
   "time": "60 minutes",
@@ -30,6 +30,6 @@
     "uilayout": "terminal"
   },
   "backend": {
-    "imageid": "centos7"
+    "imageid": "centos8"
   }
 }
