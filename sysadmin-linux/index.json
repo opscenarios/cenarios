@@ -1,5 +1,5 @@
 {
-  "title": "CentOS comandos -REP CENARIOS02",
+  "title": "CentOS comandos - Teste Install centos",
   "description": "Exercitar comandos básicos no CentOS- REP CENARIOS",
   "difficulty": "Beginner",
   "time": "60 minutes",
@@ -21,6 +21,7 @@
     "intro": {
       "text": "intro.md",
       "courseData": "centos8install.sh"
+      }
     },
     "finish": {
       "text": "finish.md"
