@@ -1,2 +1,2 @@
 echo "O Ambiente está sendo Configurado - Aguarde..."
-docker run -it centos:latest
+docker run -it renatovieira/sysadmin:teste
