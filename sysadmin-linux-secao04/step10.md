@@ -5,6 +5,6 @@ Quantas linhas tem esse arquivo?
 
 >>Apenas UMA resposta Correta <<
 ( ) 83
-(*) 95
+(*) 96
 ( ) 99
 ( ) 103

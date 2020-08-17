@@ -4,7 +4,7 @@
 Em qual diretório você está nesse momento?
 
 >>Apenas UMA resposta Correta <<
-(*) /root
+( ) /root
 ( ) /home
-( ) /opt
+(*) /
 ( ) /usr
