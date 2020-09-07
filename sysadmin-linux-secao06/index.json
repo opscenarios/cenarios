@@ -1,0 +1,44 @@
+{
+  "title": "SysAdmin Linux - Atividade Seção 06",
+  "description": "Exercitar controle de processos no CentOS 8",
+  "difficulty": "Beginner",
+  "time": "60 minutes",
+  "details": {
+    "steps": [
+      {
+        "title": "Finalizar processo python.",
+        "text": "step1.md"
+      },
+      {
+        "title": "Finalizar processo sleep através do comando top.",
+        "text": "step2.md"
+      },
+      {
+        "title": "Inserir comando em segundo plano (background).",
+        "text": "step3.md"
+      },
+      {
+        "title": "Mantendo comando em execução mesmo após sair da sessão",
+        "text": "step4.md"
+      },
+      {
+        "title": "Colocar comando em primeiro plano novamente.",
+        "text": "step5.md"
+      }
+    ],
+    "intro": {
+        "text": "intro.md",
+	"code": "centos8install.sh",
+        "credits": ""
+        },
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "environment": {
+    "uilayout": "terminal"
+  },
+  "backend": {
+    "imageid": "centos7"
+  }
+}
